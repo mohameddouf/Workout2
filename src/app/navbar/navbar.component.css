@@ -1,0 +1,7 @@
+.navbar-nav li a {
+    text-transform: uppercase;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: rgb(146, 145, 145);
+}
